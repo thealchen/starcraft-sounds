@@ -1,10 +1,14 @@
 {
   "name": "starcraft-sounds",
+  "description": "StarCraft sound effects for Claude Code",
   "owner": { "name": "atc239" },
   "plugins": [
     {
       "name": "starcraft-sounds",
-      "source": "../",
+      "source": {
+        "source": "github",
+        "repo": "thealchen/starcraft-sounds"
+      },
       "description": "Plays a random StarCraft sound when you submit a prompt"
     }
   ]

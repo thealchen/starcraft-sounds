@@ -1,5 +1,6 @@
 {
   "name": "starcraft-sounds",
   "description": "Plays a random StarCraft sound when you submit a prompt",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "author": { "name": "atc239" }
 }
