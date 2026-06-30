@@ -1,0 +1,11 @@
+{
+  "name": "starcraft-sounds",
+  "owner": { "name": "atc239" },
+  "plugins": [
+    {
+      "name": "starcraft-sounds",
+      "source": "../",
+      "description": "Plays a random StarCraft sound when you submit a prompt"
+    }
+  ]
+}
